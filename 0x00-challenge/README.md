@@ -1,0 +1,1 @@
+# Hello world. This is a new projwct 0x00. Fix my code
